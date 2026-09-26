@@ -1,0 +1,50 @@
+# Unity-generated caches and local editor state
+/UnityProject/[Ll]ibrary/
+/UnityProject/[Tt]emp/
+/UnityProject/[Oo]bj/
+/UnityProject/[Ll]ogs/
+/UnityProject/[Uu]ser[Ss]ettings/
+/UnityProject/[Mm]emoryCaptures/
+/UnityProject/[Rr]ecordings/
+
+# Local build output
+/UnityProject/[Bb]uild/
+/UnityProject/[Bb]uilds/
+
+# Generated IDE projects and per-user IDE state
+/UnityProject/.vs/
+/UnityProject/.idea/
+/UnityProject/*.csproj
+/UnityProject/*.sln
+/UnityProject/*.slnx
+/UnityProject/*.suo
+/UnityProject/*.user
+/UnityProject/*.userprefs
+/UnityProject/*.pidb
+/UnityProject/*.booproj
+/UnityProject/*.svd
+/UnityProject/*.opendb
+/UnityProject/*.VC.db
+
+# Unity crash reports and generated diagnostics
+/UnityProject/sysinfo.txt
+/UnityProject/mono_crash.*
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Keep Assets (including .meta), Packages, and ProjectSettings tracked.
+
+# UnityProject generated files
+/UnityProject/.utmp/
+/UnityProject/*_BackUpThisFolder_ButDontShipItWithYourGame/
+/UnityProject/*_BurstDebugInformation_DoNotShip/
+/.vs/
+/.idea/
+/UnityProject/*.unityproj
+/UnityProject/*.DotSettings.user
+/UnityProject/ExportedObj/
+/UnityProject/consulo/
+/UnityProject/*.log
