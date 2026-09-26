@@ -21,43 +21,6 @@
     "com.unity.profiling.core": "1.0.2",
     "com.unity.test-framework": "1.4.5"
   },
-  "samples": [
-    {
-      "displayName": "Addressables Utility",
-      "description": "This sample contains a set of utility functions for Addressables.",
-      "path": "Samples~/AddressablesUtility"
-    },
-    {
-      "displayName": "ComponentReference",
-      "description": "This sample creates an AssetReference that is restricted to having a specific Component. See the ComponentReference sample project located at github.com/Unity-Technologies/Addressables-Sample",
-      "path": "Samples~/ComponentReference"
-    },
-    {
-      "displayName": "Custom Analyze Rules",
-      "description": "This sample shows how to create custom AnalyzeRules for use within the Analyze window. Both rules follow the recommended pattern for adding themselves to the UI. See the Custom Analyze Rules sample project located at github.com/Unity-Technologies/Addressables-Sample",
-      "path": "Samples~/CustomAnalyzeRules"
-    },
-    {
-      "displayName": "Custom Build and Playmode Scripts",
-      "description": "Example custom build and play mode scripts provided.  Along with a README discussing how to add them to the Addressables system.",
-      "path": "Samples~/CustomBuildAndPlaymodeScripts"
-    },
-    {
-      "displayName": "Disable AssetImport on Build",
-      "description": "A script that disables asset importing during a player build.  This improves build performance since AssetBundles are copied into StreamingAssets at build time.",
-      "path": "Samples~/DisableAssetImportOnBuild"
-    },
-    {
-      "displayName": "Import Groups Tool",
-      "description": "A tool that imports group assets (for example from a custom package) to the current project.",
-      "path": "Samples~/ImportExistingGroup"
-    },
-    {
-      "displayName": "Prefab Spawner",
-      "description": "A basic script that instantiates and destroys a prefab AssetReference.",
-      "path": "Samples~/PrefabSpawner"
-    }
-  ],
   "_upm": {
     "changelog": "- Updating scriptable build pipeline version"
   },
