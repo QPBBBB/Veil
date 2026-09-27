@@ -35,6 +35,28 @@
 Thumbs.db
 Desktop.ini
 
+# Python bytecode and tool caches (including Tools/Python39)
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# FBX SDK: retain headers, license/readme, and x64 Release shared libraries
+/Tools/SDK/FBX/*
+!/Tools/SDK/FBX/include/
+!/Tools/SDK/FBX/License.rtf
+!/Tools/SDK/FBX/readme.txt
+!/Tools/SDK/FBX/lib/
+/Tools/SDK/FBX/lib/*
+!/Tools/SDK/FBX/lib/x64/
+/Tools/SDK/FBX/lib/x64/*
+!/Tools/SDK/FBX/lib/x64/release/
+/Tools/SDK/FBX/lib/x64/release/*
+!/Tools/SDK/FBX/lib/x64/release/libfbxsdk.dll
+!/Tools/SDK/FBX/lib/x64/release/libfbxsdk.lib
+
 # External content is mounted locally; keep Content.meta in the project.
 /Content/
 /UnityProject/Assets/Content
