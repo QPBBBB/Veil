@@ -1,0 +1,11 @@
+{
+  "name": "com.veil.character",
+  "version": "0.1.0",
+  "displayName": "Character",
+  "description": "Runtime character animation and behavior components.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.director": "1.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "CharacterUtilities.Editor",
+  "rootNamespace": "CharacterUtilities.Editor",
+  "references": ["CharacterUtilities.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "com.veil.character-utilities",
+  "version": "0.1.0",
+  "displayName": "Character Utilities",
+  "description": "Reusable character authoring utilities for the Unity Editor.",
+  "unity": "6000.0"
+}

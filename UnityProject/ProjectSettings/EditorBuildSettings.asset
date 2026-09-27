@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Res/Level/Level_Dev_Lighting/Level_Dev_Lighting.unity
+    path: Assets/Content/Level/Level_Dev_Lighting/Level_Dev_Lighting.unity
     guid: 8124e5870f4fd4c779e7a5f994e84ad1
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 321c79ec4247eae4c829e795ef29761e, type: 2}

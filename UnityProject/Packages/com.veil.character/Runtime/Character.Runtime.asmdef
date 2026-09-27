@@ -1,0 +1,5 @@
+{
+  "name": "Character.Runtime",
+  "rootNamespace": "Veil.Character",
+  "autoReferenced": true
+}

@@ -310,6 +310,21 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.veil.character": {
+      "version": "file:com.veil.character",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.modules.animation": "1.0.0",
+        "com.unity.modules.director": "1.0.0"
+      }
+    },
+    "com.veil.character-utilities": {
+      "version": "file:com.veil.character-utilities",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
