@@ -43,11 +43,11 @@ __pycache__/
 .mypy_cache/
 .ruff_cache/
 
-# FBX SDK: retain headers, license/readme, and x64 Release shared libraries
+# FBX SDK: retain headers, license, project README, and x64 Release shared libraries
 /Tools/SDK/FBX/*
 !/Tools/SDK/FBX/include/
 !/Tools/SDK/FBX/License.rtf
-!/Tools/SDK/FBX/readme.txt
+!/Tools/SDK/FBX/README.md
 !/Tools/SDK/FBX/lib/
 /Tools/SDK/FBX/lib/*
 !/Tools/SDK/FBX/lib/x64/
