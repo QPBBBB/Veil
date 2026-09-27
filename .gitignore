@@ -35,7 +35,11 @@
 Thumbs.db
 Desktop.ini
 
-# Keep Assets (including .meta), Packages, and ProjectSettings tracked.
+# External content is mounted locally; keep Content.meta in the project.
+/Content/
+/UnityProject/Assets/Content
+
+# Keep other Assets (including .meta), Packages, and ProjectSettings tracked.
 
 # UnityProject generated files
 /UnityProject/.utmp/
